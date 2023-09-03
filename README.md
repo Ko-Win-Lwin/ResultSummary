@@ -29,8 +29,6 @@ Users should be able to:
 ![Screenshot from 2023-08-23 18-58-55](https://github.com/winlwinIosdeveloper/result_summary/assets/114051612/adf2e0da-312b-4031-ae5f-162b78b5b023)
 
 
-
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -52,16 +50,11 @@ Users should be able to:
 
 - I have learned bootstrap and media query for responsive website and also some javaScript for fetching API
 
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 
 ## Author
 
 - Website - [www.resultsummary.com](https://winlwiniosdeveloper.github.io/result_summary/)
 - Frontend Mentor - [@winlwinIosdeveloper](https://www.frontendmentor.io/profile/winlwinIosdeveloper)
-- GitHub - [@winlwinIosdeveloper](https://github.com/winlwinIosdeveloper)
+- GitHub - [@winlwinIosdeveloper](https://github.com/Win-Lwin)
 
