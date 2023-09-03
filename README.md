@@ -56,5 +56,5 @@ Users should be able to:
 
 - Website - [www.resultsummary.com](https://winlwiniosdeveloper.github.io/result_summary/)
 - Frontend Mentor - [@winlwinIosdeveloper](https://www.frontendmentor.io/profile/winlwinIosdeveloper)
-- GitHub - [@winlwinIosdeveloper](https://github.com/Win-Lwin)
+- GitHub - [@Win-Lwin](https://github.com/Win-Lwin)
 
